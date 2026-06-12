@@ -31,7 +31,8 @@ The objective of the project was to transform raw business data into meaningful 
 
 ## Dashboard Preview
 
-[Upload your dashboard screenshot here]
+<img width="1178" height="665" alt="Dashboard Image" src="https://github.com/user-attachments/assets/2bb83cbd-0556-4d5c-aca1-32e1caa77db6" />
+
 
 ---
 
