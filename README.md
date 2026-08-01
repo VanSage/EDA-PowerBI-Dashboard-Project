@@ -11,7 +11,7 @@ The objective of the project was to transform raw business data into meaningful 
 ## Tools & Technologies Used
 
 * Microsoft Excel
-* Power BI
+* Power BI     
 * Data Visualization
 * Exploratory Data Analysis (EDA)
 
